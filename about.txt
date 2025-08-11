@@ -1,0 +1,16 @@
+Name : Sameera
+Course : BCA
+
+KEEP POINTS ABOUT GITHUB :
+
+Git → A tool for tracking changes in code.
+
+Repository (repo) → A folder on GitHub that contains all your project’s files and their history.
+
+Commit → A saved change in the project (like saving progress in a game).
+
+Branch → A separate line of development (you can experiment without breaking the main code).
+
+Pull Request (PR) → A request to merge changes from one branch to another (often used for code review).
+
+Issues → A way to track bugs, enhancements, or tasks.
